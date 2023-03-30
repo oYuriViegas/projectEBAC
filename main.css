@@ -35,35 +35,35 @@ header nav ul li a {
 
 #Inicio{
     padding-top: 100px;
-    background-image: url('../projeto/images/yoru.jpg');
+    background-image: url('../images/yoru.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 950px;
 }
 
 #Jogos{
-    background-image: url('../projeto/images/referencia.jpg');
+    background-image: url('../images/referencia.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 950px;
 }
 
 #Consoles{
-    background-image: url('../projeto/images/console.jpg');
+    background-image: url('../images/console.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 950px;
 }
 
 #Periféricos{
-    background-image: url('../projeto/images/background.jpg');
+    background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 950px;
 }
 
 #Sobre{
-    background-image: url('../projeto/images/gpu.jpg');
+    background-image: url('../images/gpu.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 950px;
@@ -136,7 +136,7 @@ main section ul li a {
     padding: 8px;
     background-color: blue;
 }
-/* Estilos do formulário */
+
 form {
     display: flex;
     flex-direction: column;
